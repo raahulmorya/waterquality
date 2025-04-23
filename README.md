@@ -1,8 +1,8 @@
 # waterquality
 Machine Learning & Cloud Powered Water Quality Detection System
 
-![Hardware](./Hardware/IMG/1.jpeg)
-![Hardware](./Hardware/IMG/2.jpeg)
+![Hardware](./hardware/IMG/1.jpeg)
+![Hardware](./hardware/IMG/2.jpeg)
 
 
 
